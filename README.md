@@ -1,7 +1,7 @@
 # PingBot
 Python script that pings multiple user-defined hosts and sends a Pushover alert if a host is offline. Can be used with a cron job to regularly validate whether a website or hosts on a local network are accessible. 
 
-## Requirements
+## Requirements 
 
 Python 2.7
 
